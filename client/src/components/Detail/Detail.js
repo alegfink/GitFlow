@@ -70,6 +70,7 @@ export default function RecipDetail(props){
                 <h3>Attack: {pokemonDetail.attack}</h3>
                 <h3>Defense: {pokemonDetail.defense}</h3>
                 <h3>Defense 2.0: {pokemonDetail.defense}</h3>
+                <h3>Defense 2.0: {pokemonDetail.defense}</h3>
                 <h3>Speed: {pokemonDetail.speed}</h3>
                 </div>
             {
