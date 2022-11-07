@@ -12,7 +12,7 @@ export default function Card({name, img, types, hp}){
     return (
         <div className={s.container}>
             <div className={s.card}>
-                <img src={img?img:imagen} alt='Not found' className={s.img}/>
+                <img src={img?img:imagen} alt='Not foundd' className={s.img}/>
             <div className={s.infoCard}>
                 <div>
                     <h2 className={s.title}>{name[0].toUpperCase()+name.slice(1)}</h2>
